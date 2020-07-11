@@ -3,15 +3,20 @@
 
 @import "{{ site.theme }}";
 
-.main_content p{
-  font-size: 85%;
+p{
+  font-size: 0.85rem;
 }
 
 .person img{
   float: left;
-  width: 100px;
-  min-width: 100px;
+  width: 150px;
+  min-width: 150px;
   padding-right: 7px;
+}
+
+.person p{
+    margin-block-start: 0.2rem;
+    margin-block-end: 0rem;
 }
 
 .person h2{
