@@ -19,7 +19,7 @@ The focus we have chosen for this list is black professors in the US researching
 <div class="person">
   <table border="0px">
     <tr>
-    <td><img src="{{ person.image  }}" width="100px"></td>
+    <td><img src="{{ person.image  }}"></td>
     <td>
       <h2>{{ person.first_name }} {{ person.last_name }}</h2>
       <p><a href="{{ person.url }}">{{ person.title }}</a>, {{  person.school  }} </p>
