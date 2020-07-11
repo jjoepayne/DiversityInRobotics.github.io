@@ -21,6 +21,7 @@
 
 .person h2{
   margin-top: 0px;
+  margin-bottom: 0.2rem;
 }
 
 .person::after {
@@ -39,5 +40,6 @@
 
 .person table td{
   border:0px;
+  padding: 0.25rem;
   vertical-align: top;
 }
