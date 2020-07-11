@@ -22,7 +22,7 @@ The focus we have chosen for this list is black professors in the US researching
     <td><img src="{{ person.image  }}"></td>
     <td>
       <h2>{{ person.first_name }} {{ person.last_name }}</h2>
-      <p><a href="{{ person.url }}">{{ person.title }}</a>, {{  person.school  }} </p>
+      <p><a href="{{ person.website }}">{{ person.title }}</a>, {{  person.school  }} </p>
       <p>{{ person.content | markdownify }}</p>
     </td>
     </tr>
