@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+.main_content {
+  font-size: medium;
+}
+
 .person img{
   float: left;
   width: 100px;
