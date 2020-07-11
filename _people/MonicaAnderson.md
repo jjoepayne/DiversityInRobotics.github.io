@@ -3,7 +3,7 @@ first_name: Monica
 last_name: Anderson
 title: Associate Professor of Computer Science
 school: University of Alabama
-url: http://cs.ua.edu/people/manderson/
+website: http://cs.ua.edu/people/manderson/
 image: http://cs.ua.edu/wp-content/uploads/2015/03/Anderson_Monica-800x1000.jpg
 ---
 Prof. Anderson directs the [Distributed Autonomy Lab](http://robotics.cs.ua.edu/), and her research focuses on multiagent/multirobot autonomy, teaming with humans, user interfaces, and their effect on trust.
