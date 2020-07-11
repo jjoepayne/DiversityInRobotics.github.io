@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+.person img{
+  float: left;
+  width: 100px;
+  padding-right: 7px;
+}
+
+.person h2{
+  margin-top: 0px;
+}
+
+.person::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.person table{
+  border: 0px;
+}
+
+.person table tr{
+  border: 0px;
+}
+
+.person table td{
+  border:0px;
+}
