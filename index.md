@@ -1,6 +1,6 @@
 ## Robotics Diversity Reading List
 
-The diversity of researchers in academia, and academic robotics specifically, is much lower than it should be. We hope that this reading list will in some small way help to overcome the systemic dynamics that have lead to this inbalance. There are two ways that this list may help: 
+The diversity of researchers in academia, and academic robotics specifically, is much lower than it should be. We hope that this reading list will in some small way help to overcome the systemic dynamics that have led to this imbalance. There are two ways that this list may help: 
 First, we want to increase the impact of these researchers by highlighting their research projects and advertising some of their interesting papers. We built this list to help people find knowledgeable experts for panels, possible advisors for graduate school, good citations on a given topic, and discover new exciting ideas. 
 In addition to increasing the impact of these researchers, we also wanted to provide role models for prospective graduate students. Whether browsing this list online, seeing a researcher on a panel, or reading one of their papers as a class assignment it is important for all students to see diversity in academia. 
 
