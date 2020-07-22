@@ -4,7 +4,7 @@ last_name: Taylor
 title: Raymond S. Markowitz President's Distinguished Professor of Computer and Information Science
 school: University of Pennsylvania
 website: https://www.cis.upenn.edu/~cjtaylor/
-image: https://www.grasp.upenn.edu/sites/default/files/styles/profile/public/images/taylor_3501_0.jpg?itok=aJKV_l0K&c=1733f2f14ac5bc42b7b52f09147e1942
+image: https://www.grasp.upenn.edu/sites/default/files/styles/profile/public/images/taylor_3501_0.jpg
 ---
 Dr. Camillo Taylor is a Professor at the University of Pennsylvania where he is the deputy director of the GRASP Laboratory. 
 Dr. Taylor is a leader in the field of computer vision with specific interest in 3D model reconstruction, robot navigation and scene understanding.
