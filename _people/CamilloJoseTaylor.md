@@ -10,4 +10,4 @@ Dr. Camillo Taylor is a Professor at the University of Pennsylvania where he is 
 Dr. Taylor is a leader in the field of computer vision with specific interest in 3D model reconstruction, robot navigation and scene understanding.
 * Das, A.K., et al. "[A vision-based formation control framework](https://ieeexplore.ieee.org/abstract/document/1068000)." _IEEE Transactions on Robotics_ 18.5 (2002): 813-825.
 * Taylor, Camillo J. "[Reconstruction of Articulated Objects from Point Correspondences in a Single Uncalibrated Image](https://www.sciencedirect.com/science/article/abs/pii/S1077314200908786)." _Computer Vision and Image Understanding_ 80.3 (2000): 349-363.
-* Dawson, Shameka, et al. "[Simultaneous Localization and Layout Model Selection in Manhattan Worlds](https://ieeexplore.ieee.org/abstract/document/8613887)." _IEEE Robotics and Automation Letters_ 4.2 (2019): 950-957.
+* Shariati, Armon, et al. "[Simultaneous Localization and Layout Model Selection in Manhattan Worlds](https://ieeexplore.ieee.org/abstract/document/8613887)." _IEEE Robotics and Automation Letters_ 4.2 (2019): 950-957.
