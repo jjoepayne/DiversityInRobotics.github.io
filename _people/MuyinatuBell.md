@@ -1,6 +1,6 @@
 ---
-first_name: Muyinatu A.
-last_name: Lediju Bell
+first_name: Muyinatu A. Lediju
+last_name: Bell
 title: Assistant Professor of Electrical and Computer Engineering,  Biomedical Engineering, and Computer Science
 school: Johns Hopkins University
 website: https://engineering.jhu.edu/ece/faculty/muyinatu-bell/
