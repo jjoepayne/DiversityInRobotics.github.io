@@ -1,7 +1,7 @@
 ---
 first_name: Jeremy
 last_name: Brown
-title: Assistant Professor of Mechanical Engineering
+title: John C. Malone Assistant Professor of Mechanical Engineering
 school: Johns Hopkins University
 website: https://hamr.lcsr.jhu.edu/professor-jeremy-d-brown/
 image: https://hamr.lcsr.jhu.edu/wp-content/uploads/2020/03/JHU4297-682x1024-1.jpg
