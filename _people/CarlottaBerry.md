@@ -1,7 +1,7 @@
 ---
 first_name: Carlotta
 last_name: Berry
-title: Associate Professor of Electrical and Computer Engineering
+title: Professor of Electrical and Computer Engineering
 school: Rose-Hulman Institute of Technology
 website: https://www.rose-hulman.edu/academics/faculty/berry-carlotta-berry123.html
 image: https://www.rose-hulman.edu/academics/faculty/images/Faculty-Bio-Headshots/Berry_Carlotta.jpg
