@@ -1,7 +1,7 @@
 ---
 first_name: Conrad
 last_name: Tucker
-title: Professor of Mechanical Engineering
+title: Arthur Hamerschlag Career Development Professor of Mechanical Engineering
 school: Carnegie Mellon University
 website: https://engineering.cmu.edu/directory/bios/tucker-conrad.html
 image: https://www.meche.engineering.cmu.edu/_files/images/research-groups/tucker-group/conradt.png
